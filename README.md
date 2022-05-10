@@ -2,7 +2,7 @@
 This is a sentiment analysis on news headlines by using Bidirectional LSTM classifier.
 The news headlines are annotated as positive, neutral or negative sentiment.
 
-In this project, embedding layer is not used. This is to gain experience on convert the words to word embedding using Glove (https://nlp.stanford.edu/projects/glove/).
+In this project, embedding layer is not used. This is to gain experience on convert the words to word embedding using GloVe (https://nlp.stanford.edu/projects/glove/).
 
 References:
 
